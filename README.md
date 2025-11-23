@@ -679,7 +679,7 @@ dir /s backups\
 
 ## 👨‍💻 Автор
 
-- GitHub: [AZ8N](https://github.com/AZ8N)
+- GitHub: [alez](https://github.com/alezhg1)
 - Telegram: newzellandtg
 
 ---
