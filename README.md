@@ -679,8 +679,7 @@ dir /s backups\
 
 ## 👨‍💻 Автор
 
-**Ваше Имя**
-- GitHub: [alezgh1](https://github.com/alezgh1)
+- GitHub: [AZ8N](https://github.com/AZ8N)
 - Telegram: newzellandtg
 
 ---
